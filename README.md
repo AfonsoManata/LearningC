@@ -1,6 +1,7 @@
 # Learning C 🚀
 
-Welcome to my **Learning C** repository! This repo contains my journey of learning the C programming language, including code examples, exercises, and projects.
+Welcome to my **Learning C** repository! 
+This repo contains my journey of learning the C programming language, including code examples, exercises, and projects.
 
 ## 📌 What You'll Find Here
 - Basic syntax and data types
