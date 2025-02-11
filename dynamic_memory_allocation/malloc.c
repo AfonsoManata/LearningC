@@ -22,6 +22,7 @@ int main (void)
 
   printf("a: %p\n", a); // Memory adress
   
+  free(a); // Now this space can be used again
 
   return 0;
 }
